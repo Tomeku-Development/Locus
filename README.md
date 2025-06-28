@@ -45,7 +45,7 @@ ERPNext is a powerful open-source enterprise resource planning platform, known f
 ### 1. Download the Installer
 
 ```bash
-wget [https://raw.githubusercontent.com/tomeku/locus-installer/main/Locus-Installer.sh](https://raw.githubusercontent.com/Tomeku-Development/Locus/refs/heads/main/Locus-Installer.sh)
+wget https://raw.githubusercontent.com/Tomeku-Development/Locus/refs/heads/main/Locus-Installer.sh
 chmod +x Locus-Installer.sh
 ```
 
